@@ -1,0 +1,194 @@
+,Item Purchased,Gender,Frequency of Purchases,frequency
+7,Backpack,Male,Annually,17
+8,Backpack,Male,Bi-Weekly,16
+9,Backpack,Male,Every 3 Months,15
+10,Backpack,Male,Fortnightly,17
+11,Backpack,Male,Monthly,10
+12,Backpack,Male,Quarterly,15
+13,Backpack,Male,Weekly,16
+18,Belt,Female,Monthly,13
+21,Belt,Male,Annually,17
+22,Belt,Male,Bi-Weekly,17
+23,Belt,Male,Every 3 Months,19
+24,Belt,Male,Fortnightly,14
+25,Belt,Male,Monthly,10
+26,Belt,Male,Quarterly,14
+27,Belt,Male,Weekly,15
+28,Blouse,Female,Annually,13
+29,Blouse,Female,Bi-Weekly,14
+30,Blouse,Female,Every 3 Months,14
+35,Blouse,Male,Annually,19
+36,Blouse,Male,Bi-Weekly,17
+37,Blouse,Male,Every 3 Months,17
+38,Blouse,Male,Fortnightly,17
+40,Blouse,Male,Quarterly,18
+45,Boots,Female,Fortnightly,10
+47,Boots,Female,Quarterly,12
+50,Boots,Male,Bi-Weekly,14
+51,Boots,Male,Every 3 Months,16
+52,Boots,Male,Fortnightly,15
+54,Boots,Male,Quarterly,19
+55,Boots,Male,Weekly,15
+63,Coat,Male,Annually,14
+64,Coat,Male,Bi-Weekly,15
+65,Coat,Male,Every 3 Months,13
+66,Coat,Male,Fortnightly,18
+67,Coat,Male,Monthly,13
+68,Coat,Male,Quarterly,22
+69,Coat,Male,Weekly,19
+70,Dress,Female,Annually,10
+71,Dress,Female,Bi-Weekly,10
+74,Dress,Female,Monthly,10
+77,Dress,Male,Annually,21
+78,Dress,Male,Bi-Weekly,10
+79,Dress,Male,Every 3 Months,19
+80,Dress,Male,Fortnightly,18
+81,Dress,Male,Monthly,17
+82,Dress,Male,Quarterly,13
+83,Dress,Male,Weekly,16
+91,Gloves,Male,Annually,13
+92,Gloves,Male,Bi-Weekly,17
+93,Gloves,Male,Every 3 Months,14
+94,Gloves,Male,Fortnightly,15
+95,Gloves,Male,Monthly,17
+96,Gloves,Male,Quarterly,14
+97,Gloves,Male,Weekly,13
+99,Handbag,Female,Bi-Weekly,11
+100,Handbag,Female,Every 3 Months,10
+102,Handbag,Female,Monthly,12
+105,Handbag,Male,Annually,17
+107,Handbag,Male,Every 3 Months,21
+108,Handbag,Male,Fortnightly,14
+109,Handbag,Male,Monthly,14
+110,Handbag,Male,Quarterly,12
+119,Hat,Male,Annually,12
+120,Hat,Male,Bi-Weekly,10
+121,Hat,Male,Every 3 Months,13
+122,Hat,Male,Fortnightly,13
+123,Hat,Male,Monthly,21
+124,Hat,Male,Quarterly,21
+125,Hat,Male,Weekly,12
+128,Hoodie,Female,Every 3 Months,10
+133,Hoodie,Male,Annually,11
+134,Hoodie,Male,Bi-Weekly,21
+135,Hoodie,Male,Every 3 Months,13
+136,Hoodie,Male,Fortnightly,11
+137,Hoodie,Male,Monthly,16
+138,Hoodie,Male,Quarterly,14
+139,Hoodie,Male,Weekly,14
+142,Jacket,Female,Every 3 Months,10
+143,Jacket,Female,Fortnightly,13
+147,Jacket,Male,Annually,11
+148,Jacket,Male,Bi-Weekly,14
+149,Jacket,Male,Every 3 Months,19
+150,Jacket,Male,Fortnightly,13
+151,Jacket,Male,Monthly,15
+152,Jacket,Male,Quarterly,21
+153,Jacket,Male,Weekly,16
+161,Jeans,Male,Annually,18
+163,Jeans,Male,Every 3 Months,12
+164,Jeans,Male,Fortnightly,11
+165,Jeans,Male,Monthly,19
+166,Jeans,Male,Quarterly,17
+167,Jeans,Male,Weekly,12
+168,Jewelry,Female,Annually,10
+170,Jewelry,Female,Every 3 Months,13
+175,Jewelry,Male,Annually,16
+176,Jewelry,Male,Bi-Weekly,25
+177,Jewelry,Male,Every 3 Months,12
+178,Jewelry,Male,Fortnightly,13
+179,Jewelry,Male,Monthly,17
+180,Jewelry,Male,Quarterly,17
+181,Jewelry,Male,Weekly,19
+186,Pants,Female,Monthly,10
+189,Pants,Male,Annually,14
+190,Pants,Male,Bi-Weekly,11
+191,Pants,Male,Every 3 Months,22
+192,Pants,Male,Fortnightly,15
+193,Pants,Male,Monthly,22
+194,Pants,Male,Quarterly,19
+195,Pants,Male,Weekly,20
+197,Sandals,Female,Bi-Weekly,11
+198,Sandals,Female,Every 3 Months,10
+203,Sandals,Male,Annually,17
+204,Sandals,Male,Bi-Weekly,10
+205,Sandals,Male,Every 3 Months,17
+206,Sandals,Male,Fortnightly,17
+207,Sandals,Male,Monthly,14
+208,Sandals,Male,Quarterly,12
+209,Sandals,Male,Weekly,14
+210,Scarf,Female,Annually,11
+217,Scarf,Male,Annually,18
+218,Scarf,Male,Bi-Weekly,15
+219,Scarf,Male,Every 3 Months,16
+220,Scarf,Male,Fortnightly,20
+221,Scarf,Male,Monthly,17
+222,Scarf,Male,Quarterly,13
+223,Scarf,Male,Weekly,13
+225,Shirt,Female,Bi-Weekly,12
+228,Shirt,Female,Monthly,10
+231,Shirt,Male,Annually,24
+232,Shirt,Male,Bi-Weekly,11
+233,Shirt,Male,Every 3 Months,12
+234,Shirt,Male,Fortnightly,10
+235,Shirt,Male,Monthly,18
+236,Shirt,Male,Quarterly,15
+237,Shirt,Male,Weekly,20
+244,Shoes,Female,Weekly,12
+245,Shoes,Male,Annually,20
+246,Shoes,Male,Bi-Weekly,15
+247,Shoes,Male,Every 3 Months,17
+248,Shoes,Male,Fortnightly,15
+249,Shoes,Male,Monthly,15
+250,Shoes,Male,Quarterly,11
+259,Shorts,Male,Annually,12
+260,Shorts,Male,Bi-Weekly,19
+261,Shorts,Male,Every 3 Months,19
+262,Shorts,Male,Fortnightly,17
+263,Shorts,Male,Monthly,14
+264,Shorts,Male,Quarterly,12
+265,Shorts,Male,Weekly,16
+270,Skirt,Female,Monthly,10
+273,Skirt,Male,Annually,16
+274,Skirt,Male,Bi-Weekly,13
+275,Skirt,Male,Every 3 Months,15
+276,Skirt,Male,Fortnightly,17
+277,Skirt,Male,Monthly,15
+278,Skirt,Male,Quarterly,14
+279,Skirt,Male,Weekly,19
+287,Sneakers,Male,Annually,15
+288,Sneakers,Male,Bi-Weekly,13
+289,Sneakers,Male,Every 3 Months,15
+290,Sneakers,Male,Fortnightly,20
+291,Sneakers,Male,Monthly,17
+293,Sneakers,Male,Weekly,14
+294,Socks,Female,Annually,13
+301,Socks,Male,Annually,16
+302,Socks,Male,Bi-Weekly,16
+303,Socks,Male,Every 3 Months,16
+304,Socks,Male,Fortnightly,10
+305,Socks,Male,Monthly,19
+306,Socks,Male,Quarterly,18
+313,Sunglasses,Female,Quarterly,12
+315,Sunglasses,Male,Annually,13
+316,Sunglasses,Male,Bi-Weekly,14
+317,Sunglasses,Male,Every 3 Months,13
+318,Sunglasses,Male,Fortnightly,15
+320,Sunglasses,Male,Quarterly,24
+321,Sunglasses,Male,Weekly,17
+323,Sweater,Female,Bi-Weekly,13
+329,Sweater,Male,Annually,17
+330,Sweater,Male,Bi-Weekly,16
+331,Sweater,Male,Every 3 Months,15
+332,Sweater,Male,Fortnightly,21
+333,Sweater,Male,Monthly,11
+334,Sweater,Male,Quarterly,12
+335,Sweater,Male,Weekly,22
+336,T-shirt,Female,Annually,10
+343,T-shirt,Male,Annually,10
+344,T-shirt,Male,Bi-Weekly,15
+345,T-shirt,Male,Every 3 Months,18
+346,T-shirt,Male,Fortnightly,13
+347,T-shirt,Male,Monthly,14
+348,T-shirt,Male,Quarterly,18
+349,T-shirt,Male,Weekly,13

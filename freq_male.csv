@@ -1,0 +1,80 @@
+,Item Purchased,Gender,Frequency of Purchases,frequency
+7,Backpack,Male,Annually,17
+8,Backpack,Male,Bi-Weekly,16
+10,Backpack,Male,Fortnightly,17
+13,Backpack,Male,Weekly,16
+21,Belt,Male,Annually,17
+22,Belt,Male,Bi-Weekly,17
+23,Belt,Male,Every 3 Months,19
+35,Blouse,Male,Annually,19
+36,Blouse,Male,Bi-Weekly,17
+37,Blouse,Male,Every 3 Months,17
+38,Blouse,Male,Fortnightly,17
+40,Blouse,Male,Quarterly,18
+51,Boots,Male,Every 3 Months,16
+54,Boots,Male,Quarterly,19
+66,Coat,Male,Fortnightly,18
+68,Coat,Male,Quarterly,22
+69,Coat,Male,Weekly,19
+77,Dress,Male,Annually,21
+79,Dress,Male,Every 3 Months,19
+80,Dress,Male,Fortnightly,18
+81,Dress,Male,Monthly,17
+83,Dress,Male,Weekly,16
+92,Gloves,Male,Bi-Weekly,17
+95,Gloves,Male,Monthly,17
+105,Handbag,Male,Annually,17
+107,Handbag,Male,Every 3 Months,21
+123,Hat,Male,Monthly,21
+124,Hat,Male,Quarterly,21
+134,Hoodie,Male,Bi-Weekly,21
+137,Hoodie,Male,Monthly,16
+149,Jacket,Male,Every 3 Months,19
+152,Jacket,Male,Quarterly,21
+153,Jacket,Male,Weekly,16
+161,Jeans,Male,Annually,18
+165,Jeans,Male,Monthly,19
+166,Jeans,Male,Quarterly,17
+175,Jewelry,Male,Annually,16
+176,Jewelry,Male,Bi-Weekly,25
+179,Jewelry,Male,Monthly,17
+180,Jewelry,Male,Quarterly,17
+181,Jewelry,Male,Weekly,19
+191,Pants,Male,Every 3 Months,22
+193,Pants,Male,Monthly,22
+194,Pants,Male,Quarterly,19
+195,Pants,Male,Weekly,20
+203,Sandals,Male,Annually,17
+205,Sandals,Male,Every 3 Months,17
+206,Sandals,Male,Fortnightly,17
+217,Scarf,Male,Annually,18
+219,Scarf,Male,Every 3 Months,16
+220,Scarf,Male,Fortnightly,20
+221,Scarf,Male,Monthly,17
+231,Shirt,Male,Annually,24
+235,Shirt,Male,Monthly,18
+237,Shirt,Male,Weekly,20
+245,Shoes,Male,Annually,20
+247,Shoes,Male,Every 3 Months,17
+260,Shorts,Male,Bi-Weekly,19
+261,Shorts,Male,Every 3 Months,19
+262,Shorts,Male,Fortnightly,17
+265,Shorts,Male,Weekly,16
+273,Skirt,Male,Annually,16
+276,Skirt,Male,Fortnightly,17
+279,Skirt,Male,Weekly,19
+290,Sneakers,Male,Fortnightly,20
+291,Sneakers,Male,Monthly,17
+301,Socks,Male,Annually,16
+302,Socks,Male,Bi-Weekly,16
+303,Socks,Male,Every 3 Months,16
+305,Socks,Male,Monthly,19
+306,Socks,Male,Quarterly,18
+320,Sunglasses,Male,Quarterly,24
+321,Sunglasses,Male,Weekly,17
+329,Sweater,Male,Annually,17
+330,Sweater,Male,Bi-Weekly,16
+332,Sweater,Male,Fortnightly,21
+335,Sweater,Male,Weekly,22
+345,T-shirt,Male,Every 3 Months,18
+348,T-shirt,Male,Quarterly,18

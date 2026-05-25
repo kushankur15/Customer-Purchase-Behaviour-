@@ -1,0 +1,49 @@
+,Gender,Category,Payment Method,Amount
+0,Female,Accessories,Bank Transfer,57.354838709677416
+1,Female,Accessories,Cash,59.13636363636363
+2,Female,Accessories,Credit Card,60.63013698630137
+3,Female,Accessories,Debit Card,64.54
+4,Female,Accessories,PayPal,63.770270270270274
+5,Female,Accessories,Venmo,59.52238805970149
+6,Female,Clothing,Bank Transfer,60.869565217391305
+7,Female,Clothing,Cash,58.81720430107527
+8,Female,Clothing,Credit Card,62.22222222222222
+9,Female,Clothing,Debit Card,64.1086956521739
+10,Female,Clothing,PayPal,57.98888888888889
+11,Female,Clothing,Venmo,58.766666666666666
+12,Female,Footwear,Bank Transfer,62.833333333333336
+13,Female,Footwear,Cash,56.18421052631579
+14,Female,Footwear,Credit Card,53.09375
+15,Female,Footwear,Debit Card,55.285714285714285
+16,Female,Footwear,PayPal,65.0
+17,Female,Footwear,Venmo,63.43333333333333
+18,Female,Outerwear,Bank Transfer,59.63157894736842
+19,Female,Outerwear,Cash,61.93333333333333
+20,Female,Outerwear,Credit Card,56.05263157894737
+21,Female,Outerwear,Debit Card,57.81818181818182
+22,Female,Outerwear,PayPal,57.5625
+23,Female,Outerwear,Venmo,57.95238095238095
+24,Male,Accessories,Bank Transfer,59.74576271186441
+25,Male,Accessories,Cash,60.71621621621622
+26,Male,Accessories,Credit Card,60.751724137931035
+27,Male,Accessories,Debit Card,61.744827586206895
+28,Male,Accessories,PayPal,57.58860759493671
+29,Male,Accessories,Venmo,55.850746268656714
+30,Male,Clothing,Bank Transfer,60.020725388601036
+31,Male,Clothing,Cash,59.375
+32,Male,Clothing,Credit Card,60.792270531400966
+33,Male,Clothing,Debit Card,57.885572139303484
+34,Male,Clothing,PayPal,60.364583333333336
+35,Male,Clothing,Venmo,60.47222222222222
+36,Male,Footwear,Bank Transfer,60.46774193548387
+37,Male,Footwear,Cash,61.121212121212125
+38,Male,Footwear,Credit Card,59.868852459016395
+39,Male,Footwear,Debit Card,65.70422535211267
+40,Male,Footwear,PayPal,56.37096774193548
+41,Male,Footwear,Venmo,59.782051282051285
+42,Male,Outerwear,Bank Transfer,55.19444444444444
+43,Male,Outerwear,Cash,60.97222222222222
+44,Male,Outerwear,Credit Card,54.714285714285715
+45,Male,Outerwear,Debit Card,57.36842105263158
+46,Male,Outerwear,PayPal,54.56818181818182
+47,Male,Outerwear,Venmo,57.205882352941174
